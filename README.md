@@ -15,6 +15,6 @@ License: https://github.com/yogurtsyum/in-game-ranking/blob/master/LICENSE
 Acknowledgements: https://github.com/yogurtsyum/in-game-ranking/blob/master/acknowledgements.md  
 Contributors: https://github.com/yogurtsyum/in-game-ranking/graphs/contributors   
 
-Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and key away from anyone you don't trust. In Game Ranking uses noblox.js to interact with Roblox API with your bot cookie. Do not share your config.json file with anyone once filled out.
+Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and key away from anyone you don't trust. In Game Ranking uses noblox.js to interact with Roblox API with your bot cookie. Do not share your .env file with anyone once filled out.
 
 It is your responsibility to make sure your use of In Game Ranking is not against the TOS of any services it uses.
