@@ -1,3 +1,8 @@
+## Archived Project
+Hello, this project has been archived, as our more advanced project [Qbot](https://github.com/LengoLabs/qbot) now has an API that can replace everything in this project. 
+
+---
+
 ![banner](https://i.gyazo.com/b8a8c4e370ebd880abdcd7e9f1fad19e.png)
 ![description](https://i.gyazo.com/98b3aca8ea1a649dac74cc79dbd71ca1.png)
 
